@@ -43,6 +43,37 @@ main{
     padding: 20px;
     margin-left: 10px;
 }
+.col-6{
+    width: 600px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+.col-5{
+    width: 490px;
+    padding: 5px;
+    float: left;
+}
+.col-4{
+    width: 390px;
+    padding: 5px;
+    float: left;
+}
+.col-3{
+    width: 290px;
+    padding: 5px;
+    float: left;
+    overflow: hidden;
+}
+.col-2{
+    width: 190px;
+    padding: 5px;
+    float: left;
+}
+.col-1{
+    width: 90px;
+    padding: 5px;
+    float: left;
+}
 .top-image{
     float: left;
     margin-right: 10px; 
